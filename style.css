@@ -1,5 +1,6 @@
 /* viide elemendile st muudame kõiki selliseid elemente */
 body {
+    background-image: linear-gradient(#123456, #ffffff);
     display: flex;
     padding: 1em;
     flex-direction: column;
